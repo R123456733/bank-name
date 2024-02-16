@@ -1,0 +1,76 @@
+.ranga h1
+{
+color: dark black;
+
+
+}
+.ranga h3
+{
+
+color: green;
+
+
+}
+.ranga button
+{
+
+color: white;
+background-color: green;
+border:2px solid blue;
+font-size: 20px;
+padding: 5px 600px 5px 600px;
+
+}
+.ranga label
+{
+
+text-align: left;
+
+
+
+}
+.ranga input
+{
+
+
+; 
+}
+
+.sai input
+{
+
+width: 10px;
+
+
+
+}
+.satish input
+{
+width: 10px;
+
+
+
+}
+hr
+{
+
+border:1px solid grey;
+
+
+}
+u
+{
+
+
+color: green;
+
+
+}
+body{
+
+background-repeat: no repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+background-color: lightskyblue;
+    
+}

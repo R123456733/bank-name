@@ -1,0 +1,45 @@
+body
+{
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+
+}
+
+form
+{
+
+
+    border: 2px solid green;
+    width:50%;
+
+    text-align: left;
+    margin-left: 320px;
+}
+.ranga
+
+{
+    margin-left: 180px;
+    margin-bottom: 50px;
+
+
+}
+.ranga input
+{
+    color: rgb(139, 14, 212);
+    border: 10px;
+}
+.ranga h1
+{
+
+color: green;
+
+}
+
+.ranga label
+{
+
+    color: yellowgreen;
+}
+
+
